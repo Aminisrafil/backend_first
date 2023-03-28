@@ -1,0 +1,40 @@
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\bin\Debug\netcoreapp3.1\01 backend.exe
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\bin\Debug\netcoreapp3.1\01 backend.deps.json
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\bin\Debug\netcoreapp3.1\01 backend.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\bin\Debug\netcoreapp3.1\01 backend.runtimeconfig.dev.json
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\bin\Debug\netcoreapp3.1\01 backend.dll
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\bin\Debug\netcoreapp3.1\01 backend.pdb
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\bin\Debug\netcoreapp3.1\01 backend.Views.dll
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\bin\Debug\netcoreapp3.1\01 backend.Views.pdb
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\obj\Debug\netcoreapp3.1\01 backend.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\obj\Debug\netcoreapp3.1\01 backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\obj\Debug\netcoreapp3.1\01 backend.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\obj\Debug\netcoreapp3.1\01 backend.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\obj\Debug\netcoreapp3.1\01 backend.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\obj\Debug\netcoreapp3.1\01 backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\obj\Debug\netcoreapp3.1\01 backend.RazorAssemblyInfo.cache
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\obj\Debug\netcoreapp3.1\01 backend.RazorAssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\obj\Debug\netcoreapp3.1\staticwebassets\01 backend.StaticWebAssets.Manifest.cache
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\obj\Debug\netcoreapp3.1\staticwebassets\01 backend.StaticWebAssets.Pack.cache
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.01 backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.01 backend.props
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.01 backend.props
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.01 backend.props
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\obj\Debug\netcoreapp3.1\01 backend.TagHelpers.input.cache
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\obj\Debug\netcoreapp3.1\01 backend.TagHelpers.output.cache
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\obj\Debug\netcoreapp3.1\01 backend.RazorCoreGenerate.cache
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\obj\Debug\netcoreapp3.1\Razor\_ViewStart.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\obj\Debug\netcoreapp3.1\01 backend.RazorTargetAssemblyInfo.cache
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\obj\Debug\netcoreapp3.1\01 backend.RazorTargetAssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\obj\Debug\netcoreapp3.1\01 backend.Views.pdb
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\obj\Debug\netcoreapp3.1\01 backend.dll
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\obj\Debug\netcoreapp3.1\01 backend.pdb
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\obj\Debug\netcoreapp3.1\01 backend.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\obj\Debug\netcoreapp3.1\01 backend.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\user\OneDrive\Desktop\C#\01 backend\01 backend\obj\Debug\netcoreapp3.1\Razor\Views\Product\Detail.cshtml.g.cs
